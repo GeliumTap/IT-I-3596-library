@@ -2,3 +2,9 @@
 # [Коды git](https://secretive-grain-771.notion.site/1-29b30ec8b9134c79bf20bf82d6ef47e5)
 # [Регулярные выражения](https://ru.m.wikipedia.org/wiki/Регулярные_выражения)
 # [Обучение слепой печати](https://www.typingclub.com/)
+# [Python 3 Для новичка](https://pythonworld.ru/samouchitel-python)
+# [Основы языка программирования Python за 10 минут](https://habr.com/ru/post/31180/)
+# [Начало изучения Python](https://all-python.ru/osnovy/nachalo-izucheniya.html#zachem-uchit-python)
+# [Документачия о Git, загруска самой программы](https://git-scm.com/about)
+# [Советы по Git и разная инфа надеюсь полезная будет](https://www.gitkraken.com/gitkon/2022-conference?__hstc=150103785.d063036c6db7242d835bcd8d8460c64f.1666518402507.1666518402507.1670442599074.2&__hssc=150103785.1.1670442599074&__hsfp=1172026455#git-tips)
+
