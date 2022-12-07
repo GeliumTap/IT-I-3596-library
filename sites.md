@@ -1,4 +1,5 @@
 # [Коды состояния HTTP](https://restapitutorial.ru/httpstatuscodes.HTML)
+# [Руководство по VS Code](https://code.visualstudio.com/docs)
 # [Коды git](https://secretive-grain-771.notion.site/1-29b30ec8b9134c79bf20bf82d6ef47e5)
 # [Руководство по MarkDown](https://akawah.ru/linux/markdown.html)
 # [Регулярные выражения](https://ru.m.wikipedia.org/wiki/Регулярные_выражения)
