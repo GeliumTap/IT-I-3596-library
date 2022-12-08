@@ -4,6 +4,7 @@
 # [Руководство по MarkDown](https://akawah.ru/linux/markdown.html)
 # [Регулярные выражения](https://ru.m.wikipedia.org/wiki/Регулярные_выражения)
 # [Обучение слепой печати](https://www.typingclub.com/)
+# [Обучение слепой печати 2](https://typerun.top/)
 # [Python 3 Для новичка](https://pythonworld.ru/samouchitel-python)
 # [Основы языка программирования Python за 10 минут](https://habr.com/ru/post/31180/)
 # [Начало изучения Python](https://all-python.ru/osnovy/nachalo-izucheniya.html#zachem-uchit-python)
