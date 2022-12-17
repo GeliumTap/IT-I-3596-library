@@ -79,3 +79,17 @@ git branch --all    Смотрим ветки на удаленном репоз
 
 Примечание:
 1. git config --global alias.gc 'log --pretty=format:"%C(yellow)%h%Creset-%C(green)%d%Creset %s %C(bold blue)(%cn) %C(green)%cd%Creset" --graph --date=format:"%d.%m.%Y %H:%M 
+
+создайте новый репозиторий в командной строке
+echo "# name" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin "url".git
+git push -u origin main
+
+или запустите существующий репозиторий из командной строки
+git remote add origin "url".git
+git branch -M main
+git push -u origin main
