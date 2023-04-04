@@ -1,0 +1,4 @@
+dotnet new console          // Создать Консоль
+dotnet new console --force  // Перезапись Консоли
+dotnet new gitignore        // Создать файл Гит Игноре перед проэктом!!
+dotnet run                  // Запуск программы

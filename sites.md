@@ -4,6 +4,7 @@
 # [Руководство по MarkDown](https://akawah.ru/linux/markdown.html)
 # [Регулярные выражения](https://ru.m.wikipedia.org/wiki/Регулярные_выражения)
 # [Обучение слепой печати](https://www.typingclub.com/)
+# [Обучение слепой печати 2](https://typerun.top/)
 # [Python 3 Для новичка](https://pythonworld.ru/samouchitel-python)
 # [Основы языка программирования Python за 10 минут](https://habr.com/ru/post/31180/)
 # [Начало изучения Python](https://all-python.ru/osnovy/nachalo-izucheniya.html#zachem-uchit-python)
@@ -11,3 +12,4 @@
 # [Советы по Git и разная инфа надеюсь полезная будет](https://www.gitkraken.com/gitkon/2022-conference?__hstc=150103785.d063036c6db7242d835bcd8d8460c64f.1666518402507.1666518402507.1670442599074.2&__hssc=150103785.1.1670442599074&__hsfp=1172026455#git-tips)
 # [Курс по документированию API](https://starkovden.github.io/overview-specification-formats.HTML)
 # [C# от Microsoft](https://learn.microsoft.com/ru-ru/users/dotnet/collections/yz26f8y64n7k07)
+# [+ доп к C#] (https://metanit.com/sharp/tutorial/)
